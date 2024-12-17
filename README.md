@@ -17,3 +17,4 @@ Media Queries: To ensure responsiveness across various screen sizes.
 
 DESKTOP VIEW
 
+![image alt](https://github.com/Nareshmagatham/instagram-clone/blob/8c0d5eb10965104497cb6c4141125abfdd7daa04/Screenshot%202024-12-17%20113000.png)
