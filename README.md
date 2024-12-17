@@ -23,3 +23,19 @@ DESKTOP VIEW
 
 ![image alt](https://github.com/Nareshmagatham/instagram-clone/blob/8c0d5eb10965104497cb6c4141125abfdd7daa04/Screenshot%202024-12-17%20113000.png)
 
+🎯 Goals
+
+To practice building responsive layouts.
+
+To enhance front-end skills with CSS hover effects.
+
+To replicate a popular platform's UI for learning purposes.
+
+🙌 Acknowledgments
+
+Inspired by the Instagram web interface.
+
+Thanks to media queries for making responsiveness manageable!
+
+
+
